@@ -1,6 +1,6 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Go to the index.html and all the game should start with bugs running across the screen. Your player can be moved around using up, down, left, and right.
 
-for self-checking their submission.
+When you get hit by a bug or reach the water you will be transported back to the grass to try again.
